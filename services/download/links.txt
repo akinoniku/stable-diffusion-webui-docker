@@ -14,3 +14,39 @@ https://heibox.uni-heidelberg.de/f/31a76b13ea27482981b4/?dl=1
   out=LDSR/project.yaml
 https://heibox.uni-heidelberg.de/f/578df07c8fc04ffbadf3/?dl=1
   out=LDSR/model.ckpt
+https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A1B_orangemixs.safetensors
+  out=Stable-diffusion/AOM3A1B_orangemixs.safetensors
+https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A2_orangemixs.safetensors
+  out=Stable-diffusion/AOM3A2_orangemixs.safetensors
+https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/Models/AbyssOrangeMix3/AOM3A3_orangemixs.safetensors
+  out=Stable-diffusion/AOM3A3_orangemixs.safetensors
+https://huggingface.co/gsdf/Counterfeit-V3.0/resolve/main/embedding/EasyNegativeV2.safetensors
+  out=embedding/EasyNegativeV2.safetensors
+https://huggingface.co/gsdf/Counterfeit-V3.0/resolve/main/Counterfeit-V3.0.safetensors
+  out=Stable-diffusion/Counterfeit-V3.0.safetensors
+https://huggingface.co/gsdf/Replicant-V3.0/resolve/main/Replicant-V3.0_fp32.safetensors
+  out=Stable-diffusion/Replicant-V3.0_fp32.safetensors
+https://huggingface.co/datasets/gsdf/EasyNegative/resolve/main/EasyNegative.pt
+  out=embedding/EasyNegative.pt
+https://huggingface.co/nolanaatama/embeddings/resolve/main/badhandv4.pt
+  out=embedding/badhandv4.pt
+https://huggingface.co/gsdf/Counterfeit-V2.5/resolve/main/Counterfeit-V2.5_fp16.safetensors
+  out=Stable-diffusion/Counterfeit-V2.5_fp16.safetensors
+https://huggingface.co/gsdf/Counterfeit-V2.5/resolve/main/vae/diffusion_pytorch_model.safetensors
+  out=VAE/diffusion_pytorch_model.safetensors
+https://huggingface.co/WarriorMama777/OrangeMixs/resolve/main/VAEs/orangemix.vae.pt
+  out=VAE/orangemix.vae.pt
+https://civitai.com/api/download/models/20072
+  out=Lora/tachi-e.safetensors
+https://civitai.com/api/download/models/92466
+  out=Lora/hyouka_offset.safetensors
+https://civitai.com/api/download/models/66646
+  out=Lora/kdm-style-v05.safetensors
+https://huggingface.co/kayfahaarukku/KayWaii/resolve/main/ClearVAE_V2.3.safetensors
+  out=VAE/ClearVAE_V2.3.safetensors
+https://civitai.com/api/download/models/120212
+  out=Stable-diffusion/kaywaii_v27.safetensors
+https://civitai.com/api/download/models/130824
+  out=Stable-diffusion/kaywaii_v42.safetensors
+https://huggingface.co/konohashinobi4/4xAnimesharp/resolve/main/4x-AnimeSharp.pth
+  out=RealESRGAN/4x-AnimeSharp.pth
